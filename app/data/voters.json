@@ -1,0 +1,10 @@
+[
+    {
+        "dni": "12345678",
+        "full_name": "Levanx Demo",
+        "email": "levanx@nexavote.test",
+        "password": "123456",
+        "has_voted": false,
+        "multifactor_validated": false
+    }
+]

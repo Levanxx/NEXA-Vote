@@ -4,3 +4,6 @@ __pycache__/
 *.pyd
 .env
 venv/
+app/uploads/dni_photos/*
+!app/uploads/.gitkeep
+uploads/
